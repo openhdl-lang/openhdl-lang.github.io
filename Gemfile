@@ -9,12 +9,11 @@ source "https://rubygems.org"
 # Happy Jekylling!
 #gem "jekyll", "~> 3.9.5"
 
+# Add github pages gem
+gem "github-pages", "~> 231", group: :jekyll_plugins
 
 # just the docs theme
 gem "just-the-docs", "0.8.2" # pinned to the current release
-
-# Add github pages gem
-gem "github-pages", "~> 231", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
