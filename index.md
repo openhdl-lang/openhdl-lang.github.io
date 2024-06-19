@@ -6,7 +6,7 @@ description: "OpenHDL is an open source hardware description language."
 permalink: /
 ---
 
-# Jump start your project with OpenEVolt software suit
+# Jump start your project with the OpenHDL language
 {: .fs-9 }
 
 OpenHDL aims to be provide a free hardware description language using newer technologies uage development ideas with a focus on disruptive innovation.
