@@ -9,6 +9,9 @@ source "https://rubygems.org"
 # Happy Jekylling!
 #gem "jekyll", "~> 3.9.5"
 
+# dependabot alerts fixes
+gem "rexml", ">= 3.2.7"
+
 # Add github pages gem
 gem "github-pages", "~> 231", group: :jekyll_plugins
 
